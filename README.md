@@ -21,7 +21,7 @@ The project's structure is laid out in a series of numbered steps, from initial 
 4.  **Exploring Structure and Contents of a CSV File**: The focus then shifts to a specific file format, CSV. This stage involves initial exploratory data analysis (EDA) to understand the dataset's schema, data types, and basic statistics.
 5.  **Viewing Data and Selecting Columns of a CSV File**: This is a data manipulation step where specific columns of interest are selected from the CSV file. This is crucial for narrowing down the analysis to relevant features.
 6.  **Analytical Operations on a CSV File**: The workflow proceeds to perform analytical operations. This could include aggregations, filtering, sorting, and other calculations to derive insights from the CSV data.
-7.  **Office Employee Data Analysis (Mini Project)**: The process culminates in a mini-project. This step likely applies all the previously mentioned techniques to a specific dataset about office employees to solve a practical problem or answer analytical questions.
+7.  **Adidas Sales Data Analysis (Mini Project)**: The process culminates in a mini-project. This step likely applies all the previously mentioned techniques to a specific dataset about Adidas sales to solve a practical problem or answer analytical questions.
 
 ## 3. Workflow Flowchart
 
@@ -35,7 +35,7 @@ graph TD
     D --> E("4. Exploring Structure And Contents of CSV File");
     E --> F("5. Viewing Data And Selecting Columns Of CSV File");
     F --> G("6. Analytical Operations on CSV File");
-    G --> H("7. Office Employee Data Analysis(Mini Project)");
+    G --> H("7. Adidas Sales Data Analysis(Mini Project)");
     H --> I[End of Analysis];
 ```
 
